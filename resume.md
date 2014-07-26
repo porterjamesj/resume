@@ -11,7 +11,7 @@ mail: `james@jamesporter.me`
     *Stripe* — San Francisco, California
 
     - Developed internal tooling for correctness and performance
-      testing of financial operations pipeline.
+      testing of financial operations code.
 
 - **Software Developer**, 2013-2014
 
