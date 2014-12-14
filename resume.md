@@ -6,6 +6,13 @@ mail: `james@jamesporter.me`
 
 ## Experience
 
+- **Software Engineer**, 2014-present
+
+    *Center for Data Intensive Science* — Chicago, Illinois
+
+    - Developed a variety of software for the National Cancer
+      Institute Genomic Data Commons project.
+
 - **Software Engineering Intern**, 2014
 
     *Stripe* — San Francisco, California
