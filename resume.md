@@ -81,16 +81,17 @@ mail: `james@jamesporter.me`
     GPA 4.0/4.0
 
 
-
 ## Skills
 
 ### Computational
 
-- Experience using and programming UNIX systems and associated tools.
-- Competent user of (in approximate order of familiarity) Python,
-  Ruby, Julia, C, Javascript, Lisp(s), shell scripting, Git,
-  HTML/CSS, Matlab, Mathematica, various others.
+- Experienced user and programmer of UNIX systems and associated
+  tools.
 - Comfortable programing in a wide variety of domains and styles.
+- *Languages*: Python, Ruby, C, Javascript (and HTML/CSS), Julia,
+  Lisps(s), Bash scripting, dabbler in various others
+- *Datastores*: MongoDB, PostgresSQL, Neo4j
+- *Tools*: Git, Github, Travis CI
 
 ### Laboratory
 
