@@ -10,8 +10,9 @@ mail: `james@jamesporter.me`
 
     *Stripe* — San Francisco, California
 
-    - Developed internal tooling for correctness and performance
-      testing of financial operations code.
+    - Developed internal tooling for large scale correctness and
+      performance testing of financial operations code.
+    - Refactored legacy code to improve testability.
 
 - **Student Research Programmer**, 2013-2014
 
