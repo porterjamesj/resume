@@ -55,7 +55,7 @@ mail: `james@jamesporter.me`
       zero knowledge to implementing models of genetic switches.
 
 
-- **Undergraduate Research**, 2011-2013
+- **Undergraduate Research Assistant**, 2011-2013
 
     *Ilaria Rebay Lab*, University of Chicago Ben May Department for
      Cancer Research — Chicago, Illinois
