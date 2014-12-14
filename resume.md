@@ -13,9 +13,9 @@ mail: `james@jamesporter.me`
     - Developed internal tooling for correctness and performance
       testing of financial operations code.
 
-- **Software Developer**, 2013-2014
+- **Student Research Programmer**, 2013-2014
 
-    *Center for Data Intensive Science* — Chicago, Illinois
+    *Laboratory for Advanced Computing* — Chicago, Illinois
 
     - Developed, deployed, and improved software infrastructure for
       doing bioinformatic analyses on cloud computing systems,
