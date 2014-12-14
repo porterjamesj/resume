@@ -102,7 +102,7 @@ mail: `james@jamesporter.me`
 ## Miscellaneous
 
 - One of the primary organizers of [JuliaCon](http://juliacon.org),
-  which took place in Chicago in June 2014, and was the first
+  which took place in Chicago in June 2014 and was the first
   conference on the
   [Julia programming language](http://julialang.org/).
 
