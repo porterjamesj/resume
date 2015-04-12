@@ -10,8 +10,11 @@ mail: `james@jamesporter.me`
 
     *Center for Data Intensive Science* — Chicago, Illinois
 
-    - Developed a variety of software for the National Cancer
-      Institute Genomic Data Commons project.
+    - Migrated almost 2 PB of genomic data from a legacy storage
+      system into various S3-like backends.
+    - Imported and harmonized metadata from poorly organized
+      tab-delimited text files into a PostgreSQL / Elasticsearch backend.
+    - Developed HTTP APIs for accessing genomic data and metadata.
 
 - **Software Engineering Intern**, 2014
 
@@ -41,13 +44,15 @@ mail: `james@jamesporter.me`
     - Tutored introductory computer science students in Racket, Java,
       Haskell, and Python.
 
-- **Hacker School**, 2013
+- **Recurse Center**, 2013
 
     New York City, NY
 
-    hackerschool.com
+    [recurse.com](https://www.recurse.com)
 
-    - "a writer's retreat for programmers."
+    - "a free, self-directed, educational retreat for people who want
+      to get better at programming, whether they've been coding for
+      three decades or three months"
     - Studied new programming languages, fields, techniques, etc.
     - Contributed to a variety of open source projects.
 
@@ -68,7 +73,7 @@ mail: `james@jamesporter.me`
      Cancer Research — Chicago, Illinois
 
     - Designed, implemented, and optimized simulations of genetic systems.
-    - Performed experiments aimed at understanding mechanisms of
+    - Performed wetlab experiments aimed at understanding mechanisms of
       transcriptional repression in fruit flies.
     - Facilitated collaboration between three research groups at two universities.
 
@@ -96,22 +101,24 @@ mail: `james@jamesporter.me`
   tools.
 - Comfortable programing in a wide variety of domains and styles.
 - *Languages*: Python, Ruby, C, Javascript (and HTML/CSS), Julia,
-  Lisps(s), Bash scripting, dabbler in various others
-- *Datastores*: MongoDB, PostgresSQL, Neo4j
-- *Tools*: Git, Github, Travis CI
+  Lisp(s), Bash scripting, dabbler in various others
+- *Datastores*: basic familiarity with MongoDB, PostgresSQL, Elasticsearch
+- *Tools*: Git, Github, Travis CI, Openstack, Saltstack, Consul, familiar with
+  basic setup and configuration of standard Linux server components
+  (webservers, process supervisors, logrotate, etc.)
 
 ### Laboratory
 
 - Molecular biology (cloning, PCR, etc.)
 - Microinjections
 - Confocal fluorescence microscopy
-- Care and breeding of *Drosophila melanogaster*
+- care and breeding of *Drosophila melanogaster*
 
 ## Miscellaneous
 
-- One of the primary organizers of [JuliaCon](http://juliacon.org),
-  which took place in Chicago in June 2014 and was the first
-  conference on the
+- One of the primary organizers of
+  [JuliaCon 2014](http://juliacon.org/2014), which took place in
+  Chicago and was the first conference on the
   [Julia programming language](http://julialang.org/).
 
 ## Honors and Awards
