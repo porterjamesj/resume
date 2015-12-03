@@ -6,17 +6,23 @@ mail: `james@jamesporter.me`
 
 ## Experience
 
-- **Software Engineer**, 2014-present
+- **Software Engineer**, November 2014 - November 2015
 
     *Center for Data Intensive Science* — Chicago, Illinois
 
-    - Migrated almost 2 PB of genomic data from a legacy storage
-      system into various S3-like backends.
-    - Imported and harmonized metadata from poorly organized
-      tab-delimited text files into a PostgreSQL / Elasticsearch backend.
-    - Developed HTTP APIs for accessing genomic data and metadata.
+    - Worked on the National Cancer Institute
+      [Genomic Data Commons](https://gdc.nci.nih.gov/index.html)
+      project.
+    - Migrated almost 2 PB of genomic data from a legacy storage into
+      new S3-compatible storage.
+    - Imported and harmonized metadata from poorly organized legacy
+      systems into PostgreSQL / Elasticsearch.
+    - Developed HTTP APIs and backend services for accessing genomic
+      data and metadata.
+    - Developed and maintained configuration for operational aspects
+      of the system, including deployment, service discovery, etc.
 
-- **Software Engineering Intern**, 2014
+- **Software Engineering Intern**, July 2014 - October 2014
 
     *Stripe* — San Francisco, California
 
@@ -24,35 +30,35 @@ mail: `james@jamesporter.me`
       performance testing of financial operations code.
     - Refactored legacy code to improve testability.
 
-- **Student Research Programmer**, 2013-2014
+- **Student Research Programmer**, Spetember 2013 - June 2014
 
     *Laboratory for Advanced Computing* — Chicago, Illinois
 
     - Developed, deployed, and improved software infrastructure for
       doing bioinformatic analyses on cloud computing systems,
       primarily using Python.
-    - Refactored and dramatically improved reliability of subsystem
+    - Refactored and improved reliability of subsystem
       for automated HPC cluster provisioning.
     - Contributed to widely used open source projects including
       [bcbio-nextgen](https://github.com/chapmanb/bcbio-nextgen/) and
       [IPython](https://github.com/ipython/ipython).
 
-- **Core Tutor**, 2013-2014
+- **Core Tutor**, September - December 2013
 
     *University of Chicago Department of Computer Science* — Chicago, Illinois
 
     - Tutored introductory computer science students in Racket, Java,
       Haskell, and Python.
 
-- **Recurse Center**, 2013
+- **Recurse Center**, June - August 2013
 
     New York City, NY
 
     [recurse.com](https://www.recurse.com)
 
-    - "a free, self-directed, educational retreat for people who want
+    - Attended a "free, self-directed, educational retreat for people who want
       to get better at programming, whether they've been coding for
-      three decades or three months"
+      three decades or three months".
     - Studied new programming languages, fields, techniques, etc.
     - Contributed to a variety of open source projects.
 
@@ -65,7 +71,6 @@ mail: `james@jamesporter.me`
     - Managed a teaching laboratory of 14-20 students for four hours each week.
     - Taught scientific programming with Matlab, taking students from
       zero knowledge to implementing models of genetic switches.
-
 
 - **Undergraduate Research Assistant**, 2011-2013
 
@@ -99,13 +104,16 @@ mail: `james@jamesporter.me`
 
 - Experienced user and programmer of UNIX systems and associated
   tools.
-- Comfortable programing in a wide variety of domains and styles.
-- *Languages*: Python, Ruby, C, Javascript (and HTML/CSS), Julia,
+- Comfortable programing in a variety of domains and styles.
+- *Languages*: Python, Ruby, C, Javascript, HTML/CSS, Julia,
   Lisp(s), Bash scripting, dabbler in various others
-- *Datastores*: basic familiarity with MongoDB, PostgresSQL, Elasticsearch
-- *Tools*: Git, Github, Travis CI, Openstack, Saltstack, Consul, familiar with
-  basic setup and configuration of standard Linux server components
-  (webservers, process supervisors, logrotate, etc.)
+- *Datastores*: familiar with usage and basic operation of PostgreSQL and Elasticsearch, some familiarity with MongoDB and Neo4J
+- *Tools*: Git, Github, Travis CI, Openstack, automated configuration
+  management (Saltstack), Consul, familiar with basic setup and
+  configuration of standard Linux server components (webservers,
+  process supervisors, logrotate, etc.), as well as typical packaging
+  and deployment tools for Python (and to a lesser degree Ruby,
+  Javascript)
 
 ### Laboratory
 
