@@ -1,6 +1,5 @@
 - Experienced user and programmer of UNIX systems and associated
   tools.
-- Comfortable programing in a variety of domains and styles.
 - *Languages*: Python, Ruby, C, Javascript, HTML/CSS, Julia,
   Lisp(s), Bash scripting, dabbler in various others
 - *Datastores*: familiar with usage and basic operation of PostgreSQL and Elasticsearch, some familiarity with MongoDB and Neo4J

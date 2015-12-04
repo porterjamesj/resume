@@ -3,5 +3,6 @@
     *Stripe* — San Francisco, California
 
     - Developed internal tooling for large scale correctness and
-      performance testing of financial operations code.
+      performance testing of financial operations code, primarily
+      using Ruby.
     - Refactored legacy code to improve testability.

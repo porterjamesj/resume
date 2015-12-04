@@ -1,6 +1,6 @@
 - **Student Research Programmer**, Spetember 2013 - June 2014
 
-    *Laboratory for Advanced Computing* — Chicago, Illinois
+    *University of Chicago [Center for Data Intensive Science](http://cdis.uchicago.edu/)* — Chicago, Illinois
 
     - Developed, deployed, and improved software infrastructure for
       doing bioinformatic analyses on cloud computing systems,
