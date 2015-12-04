@@ -13,7 +13,7 @@ SHORT_SECTION_PATHS = $(SHORT_SECTION_NAMES:%.md=sections/%.md)
 resume.pdf: $(wildcard sections/*.md)
 	$(CMD) $(FLAGS) sections/*.md -o resume.pdf
 
-resume_short.pdf: $(SHORT_SECTIONS)
+resume_short.pdf: $(SHORT_SECTION_PATHS)
 	$(CMD) $(FLAGS) $(SHORT_SECTION_PATHS) -o resume_short.pdf
 
 all: resume.pdf resume_short.pdf
