@@ -6,8 +6,15 @@ endif
 
 FLAGS = -f markdown -V geometry:margin=0.5in -V urlcolor:maroon -V linestretch:0.8 -V fontsize:5pt --template template.latex
 
-%.pdf: %.md
-	$(CMD) $(FLAGS) $< -o $@
+SHORT_SECTION_NAMES = 01_header.md 02_experience_header.md 03_cdis_gdc.md 04_stripe.md 05_cdis_student.md 07_recurse.md 10_education_header.md 11_uchicago.md 13_skills_header.md 15_computational_skills.md 17_misc.md
+
+SHORT_SECTION_PATHS = $(SHORT_SECTION_NAMES:%.md=sections/%.md)
+
+resume.pdf: $(wildcard sections/*.md)
+	$(CMD) $(FLAGS) sections/*.md -o resume.pdf
+
+resume_short.pdf: $(SHORT_SECTIONS)
+	$(CMD) $(FLAGS) $(SHORT_SECTION_PATHS) -o resume_short.pdf
 
 all: resume.pdf resume_short.pdf
 .PHONY : pdf
