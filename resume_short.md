@@ -8,11 +8,8 @@ mail: `james@jamesporter.me`
 
 - **Software Engineer**, November 2014 - November 2015
 
-    *Center for Data Intensive Science* — Chicago, Illinois
+    *Center for Data Intensive Science, Genomic Data Commons Team* — Chicago, Illinois
 
-    - Worked on the National Cancer Institute
-      [Genomic Data Commons](https://gdc.nci.nih.gov/index.html)
-      project.
     - Migrated almost 2 PB of genomic data from a legacy storage into
       new S3-compatible storage.
     - Imported and harmonized metadata from poorly organized legacy
@@ -52,8 +49,13 @@ mail: `james@jamesporter.me`
     - Attended a "free, self-directed, educational retreat for people who want
       to get better at programming, whether they've been coding for
       three decades or three months".
-    - Studied new programming languages, fields, techniques, etc.
-    - Contributed to a variety of open source projects.
+    - Taught myself web programming (CSS/HTML/Javascript, Flask),
+      Julia, and some Clojure.
+    - Wrote
+      [virtualenvwrapper.el](https://github.com/porterjamesj/virtualenvwrapper.el)
+      to improve the experience of Python development in Emacs.
+    - Contributed to
+      [Julia](https://github.com/JuliaLang/julia/commits?author=porterjamesj).
 
 
 ## Education
