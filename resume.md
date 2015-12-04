@@ -87,15 +87,11 @@ mail: `james@jamesporter.me`
 
 - **The University of Chicago** — Chicago, Illinois
 
-    *Biological Sciences, Minor in Computer Science*, 2014
-
-    GPA 3.98/4.0
+    *Biological Sciences, Minor in Computer Science*, 2014, GPA 3.98/4.0
 
 - **Chardon High School** — Chardon, Ohio
 
-    2010
-
-    GPA 4.0/4.0
+    2010, GPA 4.0/4.0
 
 
 ## Skills
@@ -110,7 +106,7 @@ mail: `james@jamesporter.me`
 - *Datastores*: familiar with usage and basic operation of PostgreSQL and Elasticsearch, some familiarity with MongoDB and Neo4J
 - *Tools*: Git, Github, Travis CI, Openstack, automated configuration
   management (Saltstack), Consul, familiar with basic setup and
-  configuration of standard Linux server components (webservers,
+  configuration of typical Linux server components (webservers,
   process supervisors, logrotate, etc.), as well as typical packaging
   and deployment tools for Python (and to a lesser degree Ruby,
   Javascript)
