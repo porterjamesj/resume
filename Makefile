@@ -10,13 +10,13 @@ SHORT_SECTION_NAMES = 01_header.md 02_experience_header.md 03_cdis_gdc.md 04_str
 
 SHORT_SECTION_PATHS = $(SHORT_SECTION_NAMES:%.md=sections/%.md)
 
-resume.pdf: $(wildcard sections/*.md)
-	$(CMD) $(FLAGS) sections/*.md -o resume.pdf
+cv.pdf: $(wildcard sections/*.md)
+	$(CMD) $(FLAGS) sections/*.md -o cv.pdf
 
-resume_short.pdf: $(SHORT_SECTION_PATHS)
-	$(CMD) $(FLAGS) $(SHORT_SECTION_PATHS) -o resume_short.pdf
+resume.pdf: $(SHORT_SECTION_PATHS)
+	$(CMD) $(FLAGS) $(SHORT_SECTION_PATHS) -o resume.pdf
 
-all: resume.pdf resume_short.pdf
+all: cv.pdf resume.pdf
 .PHONY : pdf
 
 clean:
