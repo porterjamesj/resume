@@ -1,6 +1,9 @@
 - **Software Engineer**, November 2014 - November 2015
 
-    *University of Chicago [Center for Data Intensive Science](http://cdis.uchicago.edu/), Genomic Data Commons Team* — Chicago, Illinois
+    *University of Chicago
+     [Center for Data Intensive Science](http://cdis.uchicago.edu/),
+     [Genomic Data Commons](https://gdc.nci.nih.gov/) Team* — Chicago,
+     Illinois
 
     - Migrated almost 2 PB of genomic data from legacy storage systems
       into new S3-compatible storage.
