@@ -1,5 +1,3 @@
-### Laboratory
-
 - Molecular biology (cloning, PCR, etc.)
 - Microinjections
 - Confocal fluorescence microscopy
