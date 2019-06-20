@@ -3,6 +3,6 @@
     [*Stripe*](https://stripe.com) — San Francisco, California
 
     - Created a system for large-scale regression testing using Ruby,
-      which ran changed code from pull requests against a large
-      dataset of transaction records from our banking partners and
-      highlighted semantically significant changes in the output.
+      which ran proposed code changes against a large dataset of
+      transaction records from our banking partners and highlighted
+      semantically significant changes in the output.

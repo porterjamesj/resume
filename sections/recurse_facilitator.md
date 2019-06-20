@@ -15,13 +15,13 @@
       a largely automated process that coordinates a group of over 40
       volunteers from our community, and can support a much higher
       volume of candidates with much less work.
-    - Designed, procured, built, and operated an [educational compute
+    - Designed, procured, built, and operated an [educational server
       cluster for the RC
       community](https://www.recurse.com/blog/126-heap-sponsors-rc-community-cluster),
       including configuration management with Ansible, and building
       tools for syncing user accounts and permissions with our primary
       database.
-    - Fixed bugs and added new features to our internal softare using
+    - Fixed bugs and added new features to our internal software using
       Ruby, Rails, and JavaScript
         - Dramatically improved the performance of syncing between our
           internal task management system and Asana by moving it to a

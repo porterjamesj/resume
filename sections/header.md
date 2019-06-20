@@ -4,4 +4,4 @@ web: `jamesporter.me`
 
 mail: `james@jamesporter.me`
 
-github: `github.com/porterjamesj`
+`github.com/porterjamesj`
