@@ -5,17 +5,17 @@
 %% The original source files were:
 %%
 %% sectsty.dtx  (with options: `package')
-%% 
+%%
 %% IMPORTANT NOTICE:
-%% 
+%%
 %% For the copyright see the source file.
-%% 
+%%
 %% You are *not* allowed to modify this file.
-%% 
+%%
 %% You are *not* allowed to distribute this file.
 %% For distribution of the original source see the terms
 %% for copying and modification in the file sectsty.dtx.
-%% 
+%%
 %%
 %% \CheckSum{1463}
 %% \CharacterTable
@@ -69,7 +69,7 @@ sectional heading styles]
   \relax
   \ifmmode\@@underline{\strut#1}%
   \else $\@@underline{\hbox{\strut#1}}\m@th$\relax\fi}
-
+\pagenumbering{gobble}
 \def\SS@ulemheadingchapfudge#1#2{%
   \ifSS@komascript%
     \ifnum\SSsectlevel=1% chapter level
