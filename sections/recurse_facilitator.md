@@ -47,12 +47,16 @@
         a largely automated process that coordinates a group of over 40
         volunteers from our community, and can support a much higher
         volume of candidates with much less work.
-      - Revamped and streamlined how we run the first day of a batch
-        (I did this several more times over the years). I also made
-        other efforts to streamline onboarding new Recursers,
-        including a buddy system, "RC Gateway", that matched incoming
-        Recursers with alums who shared their background or interests
-        for an introductory chat and to ask questions.
+      - Revamped and streamlined how we onboard new Recursers (I did
+        this several more times over the years), including the first
+        day of the batch, further events during the first few weeks
+        (e.g. a pair programming workshop, Q&A panels with current
+        Recursers), and streamlining/automating pre-batch email and
+        Zulip communication. I also made other efforts to streamline
+        onboarding new Recursers, including a buddy system, "RC
+        Gateway", that matched incoming Recursers with alums who
+        shared their background or interests for an introductory chat
+        and to ask questions.
       - Contributed writing to a total redesign of RC's public facing website
       - Resolved many trial-by-fire community management issues,
         including but not limited to: conflicts over lighting and
@@ -105,12 +109,16 @@
         (Mai, Liz) and three career facilitators (Sydney, Selomé,
         Laura), almost all of whom turned out to be excellent hires,
         staying at the company for multiple years, and making
-        countless contributions to RC's success. Candidates who went
-        through the hiring processes I designed consistently described
-        them as the best interview experience they've ever had,
-        praising our thoughtfulness, directness, transparency, and
-        consistency. I also helped or led onboarding for all of these
-        people plus Alicia.
+        countless contributions to RC's success. My work included
+        defining our criteria for hiring someone, writing and sharing
+        job postings, designing and conducting interviews to measure
+        said criteria, and coordinating the rest of the companies
+        efforts to conduct their interviews and make final
+        decisions. Candidates who went through the hiring processes I
+        designed consistently described them as the best interview
+        experience they've ever had, praising our thoughtfulness,
+        directness, transparency, and consistency. I also helped or
+        led onboarding for all of these people plus Alicia.
       - Designed, procured, built, and operated an [educational server
         cluster for the RC
         community](https://www.recurse.com/blog/126-heap-sponsors-rc-community-cluster),
@@ -151,9 +159,15 @@
           - Change the way we represent Recursers' experience to allow
             for more nuance (it used to be "Senior", "Intermediate", etc.
             and I made it an actual number of years)
+          - Streamlined and condensed our tools for managing and
+            onboarding partner companies. Made this process much less
+            of a headache, which let us move faster on an important
+            task.
       - Over the course of years, I improved our ability to collect and
         analyze data about our business.
-        - I added new data modeling capabilities and user-facing features to Jobs Chat that let us carefully track Recursers' progress through their job searches and interview processes.
+        - I added new data modeling capabilities and user-facing
+          features to Jobs Chat that let us carefully track Recursers'
+          progress through their job searches and interview processes.
         - I built data pipelines and warehouses using SQL and
           proprietary tools that let us denormalize the dats to quickly
           make graphs and answer questions about this data. For
@@ -236,20 +250,31 @@
         clicking on a room would take you to a corresponding Zoom
         meeting. With a colleague, I iterated on it over the next
         almost two years, until it was a rich online space that
-        genuinely made you feel more connected to the people you
-        shared it with. It featured real-time movement and editing,
-        audio chats, Zoom syncing, and more. Many Recursers described
-        it as the best remote experience they'd had from any job or
-        educational institution. When we were trying to sell RC
-        Together to other companies as a potential new revenue stream,
-        I also produced and edited a short [demo
+        genuinely made you feel more connected to other people. It
+        featured a 2D world with real-time movement and editing, text
+        chat, audio chats, Zoom syncing, multi-tenancy, a user-facing
+        API that allows people to build their own UI, and more. I
+        developed a much greater understanding of how to architect
+        real-time apps, the finer details of the Zoom API and
+        permissions model, debugging tricky concurrency issues, fast
+        web rendering with HTML Canvas, performance optimization, and
+        much more. Many Recursers described it as the best remote
+        experience they'd had from any job or educational
+        institution. When we were trying to sell RC Together to other
+        companies as a potential new revenue stream, I also produced
+        and edited a short [demo
         video](https://www.youtube.com/watch?v=Qv801wYJoXQ) explaining
         it.
       - I made lots of other software changes to accommodate an online
         world:
           - Built system to match Recursers with each other at random
             each day for "coffee chats".
-          -
+          - Built a bot with a personality "Ollie the Octopus" that
+            regularly messaged Recursers and to gather their
+            reflections on their time. This was really valuable for
+            keeping a finger on the pulse of the experience everyone
+            was having, without being physically around them, which is
+            how we'd previously gotten this visibility.
       - I iteratively tweaked the structure and social norms of the
         retreat to work better in a remote world, trying to answer
         hard questions like: "How do you facilitate serendipitious
@@ -262,4 +287,40 @@
           - Helped plan moving Never Graduate Week online, which
             included making Zoom and Virtual RC work for events with
             hundreds of participants.
-          -
+      - I also served as the primary admin for our somewhat unusual
+        Zoom setup, in which we treated paid Zoom accounts like
+        physical locations that we could talk about and schedule
+        meetings in, like rooms in a physical office.
+    - Later, in 2022, we turned our focus back towards the core
+      retreat experience, which had suffered somewhat being
+      online-only for so long.
+      - With several of my colleagues I developed what we called [the
+        self-directives](https://recurse.com/self-directives): three
+        guiding principles that distilled the wisdom of many years
+        into actionable but generalizable advice for how to get the
+        most out of a retreat. I also helped promulgate and infuse
+        these principles into RC's culture.
+      - I developed and new events to help Recursers put the
+        self-directives into practice. For example, an "unsticking"
+        event, which had people work through something they were stuck
+        on in a group setting, getting advice and thoughts from others.
+      - I used our data pipelines (and built new ones) to measure data
+        about Recurser participation on Zoom and Zulip. This helped us
+        quickly notice when people weren't participation, what events
+        we ran had an impact, etc.
+    - I also helped train the new Career Facilitators we hired in late
+      2021 and early 2022 (Selomé and Laura) on how to to do the job,
+      and handed off some of my responsibilities (communicating with
+      Recursers on Jobs Chat, writing referrals) to them, so I could
+      focus on the retreat experience.
+    - With two colleagues, developed a new missions statement for RC:
+      "Transform lives by helping people direct themselves". RC's
+      mission hadn't been updated since 2014, and the old one was out
+      of sync with how we thought about what we did and why.
+    - Built a new software tool ("Explore") to make matching roles at
+      our partner companies with Recursers who might be good
+      candidates easier and more efficient.
+    - Automated creating and syncing of Recurser's accounts on Zulip
+      with their main RC accounts. Previously this was all done
+      manually and took a few hours at the start of every batch to run
+      all the code, chase people down to sign up for Zulip, etc.
