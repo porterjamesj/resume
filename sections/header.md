@@ -1,7 +1,3 @@
 # James J Porter
 
-web: `jamesporter.me`
-
-mail: `james@jamesporter.me`
-
-`github.com/porterjamesj`
+web: `jamesporter.me` | mail: `hire@jamesporter.me` | `github.com/porterjamesj`

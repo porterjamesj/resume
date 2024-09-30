@@ -17,7 +17,8 @@ $endif$
 \setlength{\parskip}{0pt plus 2pt minus 0pt}
 
 \usepackage{enumitem}
-\setlist[itemize]{topsep=3pt,leftmargin=20pt}
+\setlist[itemize]{leftmargin=20pt}
+\setlist[itemize]{topsep=1pt,itemsep=1pt}
 %% \setlist[itemize,1]{label=$$\ovoid$$}
 
 \definecolor{maroon}{HTML}{992626}

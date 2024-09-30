@@ -4,7 +4,7 @@ else
         CMD = pandoc
 endif
 
-FLAGS = -f markdown -V geometry:margin=0.3in -V urlcolor:maroon -V linestretch:0.9 -V fontsize:5pt -V pagestyle=empty --template template.latex
+FLAGS = --pdf-engine=tectonic -f markdown -V geometry:margin=0.3in -V urlcolor:blue -V linestretch:0.9 -V fontsize:5pt -V pagestyle=empty --template template.latex
 
 RESUME_SECTIONS := $(shell cat resume_sections | sed 's/^/sections\//')
 CV_SECTIONS := $(shell cat cv_sections | sed 's/^/sections\//')

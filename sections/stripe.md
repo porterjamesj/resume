@@ -1,8 +1,8 @@
-- **Software Engineering Intern**, July 2014 - October 2014
+**Software Engineering Intern**, July 2014 - October 2014
 
-    [*Stripe*](https://stripe.com) — San Francisco, California
+  [*Stripe*](https://stripe.com) — San Francisco, California
 
-    - Created a system for large-scale regression testing using Ruby,
-      which ran proposed code changes against a large dataset of
-      transaction records from our banking partners and highlighted
-      semantically significant changes in the output.
+  - Created a system for large-scale regression testing using Ruby,
+    which ran proposed code changes against a large dataset of
+    transaction records from our banking partners and highlighted
+    semantically significant changes in the output.
